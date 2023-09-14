@@ -27,7 +27,7 @@ Install Docker on your computer. Instructions can be found on the official Docke
    docker exec -it books_app bash
 
 
-8. Run database migrations:
+8. Add yor .env file and run database migrations:
 
    php artisan migrate
 
