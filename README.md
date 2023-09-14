@@ -32,6 +32,7 @@ Install Docker on your computer. Instructions can be found on the official Docke
       php artisan migrate:fresh --seed
 
 10. After open new tab terminal and run this command
+
     npm install && npm run dev
 
 
