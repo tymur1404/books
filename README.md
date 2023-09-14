@@ -6,7 +6,7 @@ Install Docker on your computer. Instructions can be found on the official Docke
 
    git clone https://github.com/tymur1404/books.git
 
-3. Build the Docker containers
+3. Move to books folder and build the Docker containers
 
    docker compose -p books_app -f docker-compose.yml build
 
