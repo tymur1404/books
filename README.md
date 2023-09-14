@@ -31,9 +31,12 @@ Install Docker on your computer. Instructions can be found on the official Docke
 
    php artisan migrate
 
+9. Add yor .env file and run database migrations:
 
-9. After open new tab terminal and run this command
-   npm run dev && npm install
+   php artisan migrate
+
+10. After open new tab terminal and run this command
+    npm install && npm run dev
 
 
 You can now open the project in your browser at http://localhost:8876/book.
