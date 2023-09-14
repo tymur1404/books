@@ -4,12 +4,7 @@ Install Docker on your computer. Instructions can be found on the official Docke
 
 1. Clone the project repository to your computer:
 
-   git clone git clone https://github.com/tymur1404/books.git
-
-
-2. Generate the application key:
-
-   php artisan key:generate
+   git clone https://github.com/tymur1404/books.git
 
 3. Build the Docker containers
 
