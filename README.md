@@ -29,7 +29,7 @@ Install Docker on your computer. Instructions can be found on the official Docke
 
 8. Add yor .env file and run database migrations:
 
-  php artisan migrate:fresh --seed
+      php artisan migrate:fresh --seed
 
 10. After open new tab terminal and run this command
     npm install && npm run dev
