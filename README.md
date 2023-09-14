@@ -40,4 +40,5 @@ Install Docker on your computer. Instructions can be found on the official Docke
 9. After open new tab terminal and run this command
    npm run dev && npm install
 
-You can now open the project in your browser at http://localhost:8876.
+
+You can now open the project in your browser at http://localhost:8876/book.
